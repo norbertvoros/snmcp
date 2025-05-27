@@ -1,0 +1,6 @@
+@SensoryBridge.Api_HostAddress = http://localhost:5033
+
+GET {{SensoryBridge.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

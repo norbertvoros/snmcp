@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SensoryBridge.McpAdapter\SensoryBridge.McpAdapter.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="SenseNet.Client" Version="4.1.1" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
