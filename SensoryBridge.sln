@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensoryBridge.Api", "SensoryBridge.Api\SensoryBridge.Api.csproj", "{757F1751-C123-40A8-AB76-07800D994CB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensoryBridge.McpAdapter", "SensoryBridge.McpAdapter\SensoryBridge.McpAdapter.csproj", "{8997F6E2-53EC-4E6F-9CF9-2382BBEF6F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensoryBridge.SenseNetClient", "SensoryBridge.SenseNetClient\SensoryBridge.SenseNetClient.csproj", "{6747C938-FBF6-4F92-85B4-B627AF24B890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757F1751-C123-40A8-AB76-07800D994CB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757F1751-C123-40A8-AB76-07800D994CB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757F1751-C123-40A8-AB76-07800D994CB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757F1751-C123-40A8-AB76-07800D994CB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8997F6E2-53EC-4E6F-9CF9-2382BBEF6F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8997F6E2-53EC-4E6F-9CF9-2382BBEF6F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8997F6E2-53EC-4E6F-9CF9-2382BBEF6F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8997F6E2-53EC-4E6F-9CF9-2382BBEF6F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6747C938-FBF6-4F92-85B4-B627AF24B890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6747C938-FBF6-4F92-85B4-B627AF24B890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6747C938-FBF6-4F92-85B4-B627AF24B890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6747C938-FBF6-4F92-85B4-B627AF24B890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
